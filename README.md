@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Deepak Sharma</h1>
 <h3 align="center">An Aspiring Full Stack developer who enjoys software development and learning new technologies</h3>
 
-##### Learning Full Stack Development at [Masai School](masaischool.com)
+##### Learning Full Stack Development at [Masai School](https://www.masaischool.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
